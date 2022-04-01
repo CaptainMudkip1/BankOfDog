@@ -17,9 +17,9 @@ div[fancy-box] {
 }
 
 .dynmap {
-  margin-bottom: 15px;
+  margin-bottom: 25px;
   width: 75%;
-  height: 60%;
+  height: 75%;
   border: 3px solid #303436;
 }
 
