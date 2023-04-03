@@ -8,24 +8,19 @@ div[fancy-box] {
   text-align: center;
   margin: auto;
   align-items: center;
+  padding: auto;
 }
 
-.dynmap-iframe {
+.spacer {
+  margin: 21.44;
+}
+
+.content {
   width: 100%;
-  height: 100%;
-  border: none;
+  margin: 0 auto;
+  justify-content: center;
 }
 
-.dynmap {
-  margin-bottom: 25px;
-  width: 75%;
-  height: 75%;
-  border: 3px solid #303436;
-}
-
-main {
-  padding: 20% 0;
-}
 
 body {
   overflow: hidden;
